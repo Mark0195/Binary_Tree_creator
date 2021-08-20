@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "express": "^4.17.1",
+    "jest": "^27.0.6",
+    "path": "^0.12.7",
+    "treeify": "^1.1.0"
+  },
+  "name": "sprint_question_2",
+  "version": "1.0.0",
+  "description": "Final Sprint",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "author": "Mark Myles",
+  "license": "ISC"
+}
